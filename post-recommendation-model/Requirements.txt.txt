@@ -1,0 +1,6 @@
+scikit-surprise==1.1.4
+pandas==2.2.2
+numpy==1.23.5
+scikit-learn==1.6.1
+scipy==1.14.1
+torch==2.6.0+cu124
