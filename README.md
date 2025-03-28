@@ -1,8 +1,8 @@
 <h2>Post Recommendation System<h2>
 <h3>Overview<h3>
 This project focuses on building an intelligent Post Recommendation System that suggests posts based on user interests, engagement, and work profile. The system prioritizes useful and actionable content by analyzing implicit feedback such as upvotes, saves, and project mappings.
-
-<h3?>Features</h3>
+<br>
+<h3>Features</h3>
 ✔ Personalized Post Ranking – Uses implicit feedback for ranking.
 ✔ Content-Based Filtering – Matches posts based on similarity.
 ✔ Industry & Work Profile Prioritization – Ensures relevance.
