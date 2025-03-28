@@ -1,6 +1,6 @@
 <h2>Post Recommendation System<h2>
 <h3>Overview<h3>
-This project focuses on building an intelligent Post Recommendation System that suggests posts based on user interests, engagement, and work profile. The system prioritizes useful and actionable content by analyzing implicit feedback such as upvotes, saves, and project mappings.
+<h4>This project focuses on building an intelligent Post Recommendation System that suggests posts based on user interests, engagement, and work profile. The system prioritizes useful and actionable content by analyzing implicit feedback such as upvotes, saves, and project mappings.</h4>
 <br>
 <h3>Features</h3>
 ✔ Personalized Post Ranking – Uses implicit feedback for ranking.<br>
@@ -19,7 +19,7 @@ This project focuses on building an intelligent Post Recommendation System that 
 The system ranks posts using a 4-step process:
 
 1️⃣ Modified Personalized Ranking (NCF-based)
-Assigns different weights to user interactions:<br>
+Assigns different weights to user interactions:
 Upvotes = 1
 Downvotes = -2
 Saves = 3
