@@ -19,9 +19,9 @@
 The system ranks posts using a 4-step process:
 
 1️⃣ Modified Personalized Ranking (NCF-based)
-Assigns different weights to user interactions:
-Upvotes = 1
-Downvotes = -2
+Assigns different weights to user interactions:<br>
+Upvotes = 1 <br>
+Downvotes = -2<br>
 Saves = 3
 
 2️⃣ Content-Based Filtering (TF-IDF, Similarity Matching)
